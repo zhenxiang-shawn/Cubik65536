@@ -15,7 +15,7 @@
 
 ⚡ This README is powered by
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-statst&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!--
