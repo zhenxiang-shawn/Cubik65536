@@ -2,8 +2,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=Cubik65536&count_private=true&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Cubik65536&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
 🔭 Here's some of my projects that I’m currently working on ...
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cubik65536&repo=Cubik-Website&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/Cubik65536/Cubik-Website)
