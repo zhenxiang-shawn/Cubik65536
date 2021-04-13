@@ -4,13 +4,13 @@
 
 🔭 Here's some of my projects that I’m currently working on ...
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cubik65536&repo=Cubik-Website&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/Cubik65536/Cubik-Website)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cubik65536&repo=Cubik-Blog&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/Cubik65536/Cubik-Blog)
-
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cubik65536&repo=CubikBot&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/Cubik65536/CubikBot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cubik65536&repo=kukubot-doc&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/Cubik65536/kukubot-doc)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LittleSkinCommspt&repo=commspt-bot&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/LittleSkinCommspt/commspt-bot)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LittleSkinChina&repo=manual&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/LittleSkinChina/manual)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=rocky-linux&repo=documentation&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/rocky-linux/documentation)
 
 📫 Reach me by [sending me a email](mailto:cubik65536@cubik65536.top)
 
