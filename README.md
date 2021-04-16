@@ -4,8 +4,8 @@
 
 🔭 Here's some of my projects that I’m currently working on ...
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CubikStudio&repo=MinecraftServerManager&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/CubikStudio/MinecraftServerManager)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CubikStudio&repo=CubikBot&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/CubikStudio/CubikBot)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CubikBitStudio&repo=MinecraftServerManager&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/CubikBitStudio/MinecraftServerManager)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=CubikBitStudio&repo=CubikBot&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/CubikBitStudio/CubikBot)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LittleSkinCommspt&repo=commspt-bot&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/LittleSkinCommspt/commspt-bot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cubik65536&repo=kukubot-doc&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/Cubik65536/kukubot-doc)
