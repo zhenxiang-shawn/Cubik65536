@@ -2,7 +2,7 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=Cubik65536&count_private=true&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
-⚡️ Sponsor me at ![afdian.net](https://www.afdian.net/@cubik65536?tab=home)!
+⚡️ Sponsor me at [afdian.net](https://www.afdian.net/@cubik65536?tab=home)!
 
 🔭 Here's some of my projects that I’m currently working on ...
 
