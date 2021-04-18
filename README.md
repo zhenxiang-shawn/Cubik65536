@@ -4,6 +4,9 @@
 
 ⚡️ Sponsor me at [afdian.net](https://www.afdian.net/@cubik65536?tab=home)!
 
+<img src="https://img.cubik65536.top/afdian-Cubik65536.jpg" width="360px"/>
+
+
 🔭 Here's some of my projects that I’m currently working on ...
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LittleSkinCommspt&repo=commspt-bot&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/LittleSkinCommspt/commspt-bot)
