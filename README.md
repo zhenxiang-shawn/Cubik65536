@@ -6,6 +6,15 @@
 
 <img src="https://img.cubik65536.top/afdian-Cubik65536.jpg" width="360px"/>
 
+---
+
+### 2021年4月赞助者：
+
+* WeKs
+
+感谢你们对我的支持！
+
+---
 
 🔭 Here's some of my projects that I’m currently working on ...
 
@@ -14,7 +23,11 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LittleSkinChina&repo=manual&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/LittleSkinChina/manual)
 
+---
+
 📫 Reach me by [sending me a email](mailto:cubik65536@cubik65536.top)
+
+---
 
 ⚡ This README is powered by
 
