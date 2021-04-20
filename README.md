@@ -16,6 +16,12 @@
 
 ---
 
+感谢 [幻境云计算](https://www.realmidc.net/) 为我提供网络与计算资源
+
+[<img src="https://img.cubik65536.top/RealmidcLogo.png" width="320"/>](https://www.realmidc.net/)
+
+---
+
 🔭 Here's some of my projects that I’m currently working on ...
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LittleSkinCommspt&repo=commspt-bot&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/LittleSkinCommspt/commspt-bot)
