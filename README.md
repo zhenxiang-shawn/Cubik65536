@@ -8,6 +8,10 @@
 
 <img src="https://img.cubik65536.top/afdian-Cubik65536.jpg" width="360px"/>
 
+### 帮我买杯咖啡：
+
+* [@Cursor-S](github.com/Cursor-S)
+
 ### 2021年4月赞助者：
 
 * WeKs
