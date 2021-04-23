@@ -10,7 +10,7 @@
 
 ### 帮我买杯咖啡：
 
-* [@Cursor-S](github.com/Cursor-S)
+* [@Cursor-S](https://github.com/Cursor-S)
 
 ### 2021年4月赞助者：
 
