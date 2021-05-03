@@ -26,16 +26,11 @@
 
 ---
 
-🔭 Here's some of my projects that I’m currently working on ...
+📫 Reach me by 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LittleSkinCommspt&repo=commspt-bot&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/LittleSkinCommspt/commspt-bot)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cubik65536&repo=kukubot-doc&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/Cubik65536/kukubot-doc)
+> [Sending me a email](mailto:cubik65536@cubik65536.top)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LittleSkinChina&repo=manual&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/LittleSkinChina/manual)
-
----
-
-📫 Reach me by [sending me a email](mailto:cubik65536@cubik65536.top)
+> In [LittleSkin](https://littlesk.in)'s chat groups! (I'm a LittleSkin Community Support member!)
 
 ---
 
