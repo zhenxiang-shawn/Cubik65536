@@ -12,10 +12,6 @@
 
 * [@Cursor-S](https://github.com/Cursor-S)
 
-### 2021年4月赞助者：
-
-* WeKs
-
 ### 2021年5月赞助者：
 
 * WUTONG
