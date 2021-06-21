@@ -1,4 +1,4 @@
-### Hi there 👋 Check out the [GitLab of CuBitStudio](https://git.cubik65536.top)!
+### Hi there 👋
 
 [![Readme Card](https://github-readme-stats.cubik65536.top/api?username=Cubik65536&count_private=true&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
