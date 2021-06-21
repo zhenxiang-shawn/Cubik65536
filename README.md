@@ -1,6 +1,8 @@
 ### Hi there 👋 Check out the [GitLab of CuBitStudio](https://git.cubik65536.top)!
 
-[![Readme Card](https://github-readme-stats.vercel.app/api?username=Cubik65536&count_private=true&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.cubik65536.top/api?username=Cubik65536&count_private=true&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.cubik65536.top/api/top-langs/?username=Cubik65536&layout=compact&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
