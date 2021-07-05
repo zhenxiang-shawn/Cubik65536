@@ -13,7 +13,7 @@
 
 <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/> <img alt="Oracle Cloud" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" /> <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 
-#### I'm a member of [LittleSkin](https://littlesk.in)'s Community Support Team (@LittleSkinCommspt) and Technical Director / Senior Developer of CraftStar Studio (@CraftStarStudio)
+#### I'm a member of [LittleSkin](https://littlesk.in)'s Community Support Team ([@LittleSkinCommspt](https://github.com/LittleSkinCommspt)) and Technical Director / Senior Developer of CraftStar Studio ([@CraftStarStudio](https://github.com/CraftStarStudio))
 
 [![📫 EMAIL @CRAFTSTAR.NET](https://img.shields.io/badge/📫%20EMAIL%40CRAFTSTAR.NET-cubik65536%40craftstar.net-informational?style=for-the-badge)](mailto:cubik65536@craftstar.net)
 [![📫 EMAIL @LittleSkin Commspt](https://img.shields.io/badge/📫%20EMAIL%40LittleSkin%20Commspt-cubik65536%40commspt.littlesk.in-informational?style=for-the-badge)](mailto:cubik65536@commspt.littlesk.in)
