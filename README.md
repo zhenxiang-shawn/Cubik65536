@@ -1,57 +1,53 @@
-### Hi there 👋
+### Hi there, I'm Cubik 👋
 
-[![Readme Card](https://github-readme-stats.cubik65536.top/api?username=Cubik65536&count_private=true&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![https://www.cubik65536.top](https://img.shields.io/website?down_color=red&down_message=Offline&label=www.cubik65536.top&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fwww.cubik65536.top)](https://www.cubik65536.top)
+[![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-cubik65536%40cubik65356.top-informational?style=for-the-badge)](mailto:cubik65536@cubik65356.top)
 
-[![Top Langs](https://github-readme-stats.cubik65536.top/api/top-langs/?username=Cubik65536&layout=compact&count_private=true&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+#### Languages and Tools:
 
----
+<img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
 
-⚡️ Sponsor me at [afdian.net](https://www.afdian.net/@cubik65536?tab=home)!
+<img alt="Visual Studio Code" src="https://img.shields.io/badge/VisualStudioCode-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/> <img alt="Xcode" src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white"/> <img alt="IntelliJ IDEA" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/> <img alt="Vim" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white"/> <img alt="Sublime Text" src="https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important"/> <img alt="PyCharm" src="https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green"/>
 
-<img src="https://img.cubik65536.top/afdian-Cubik65536.jpg" width="360px"/>
+<img alt="Git" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/> <img alt="GitLab" src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white"/> <img alt="GitHub" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 
-### 帮我买杯咖啡：
+<img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/> <img alt="Oracle Cloud" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" /> <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 
-* [@Cursor-S](https://github.com/Cursor-S)
+#### I'm a member of [LittleSkin](https://littlesk.in)'s Community Support Team (@LittleSkinCommspt) and Technical Director / Senior Developer of CraftStar Studio (@CraftStarStudio)
 
-### 2021年5月赞助者：
+[![📫 EMAIL @CRAFTSTAR.NET](https://img.shields.io/badge/📫%20EMAIL%40CRAFTSTAR.NET-cubik65536%40craftstar.net-informational?style=for-the-badge)](mailto:cubik65536@craftstar.net)
+[![📫 EMAIL @LittleSkin Commspt](https://img.shields.io/badge/📫%20EMAIL%40LittleSkin%20Commspt-cubik65536%40commspt.littlesk.in-informational?style=for-the-badge)](mailto:cubik65536@commspt.littlesk.in)
 
-* WUTONG
+<details>
+  <summary>:zap: My GitHub Stats</summary>
 
-感谢你们对我的支持！
+  <img align="left" alt="Cubik65536's GitHub Stats" src="https://github-readme-stats.cubik65536.top/api?username=Cubik65536&count_private=true&theme=blue-green&show_icons=true" />
+  
+  <img align="left" alt="Cubik65536's Top Langs" src="https://github-readme-stats.cubik65536.top/api/top-langs/?username=Cubik65536&layout=compact&count_private=true&theme=blue-green" />
 
----
+</details>
 
-感谢 [幻境云计算](https://www.realmidc.net/) 为我提供网络与计算资源
+<details>
+  <summary>:zap: Sponsors </summary>
+  
+  <br/>
+  <b>Thanks to <a href="https://www.realmidc.net/">RealmIDC</a> for providing me network and computing resources</b>
+  <br/><br/>
+  <a href="https://www.realmidc.net/"><img src="https://img.cubik65536.top/RealmidcLogo.png" width="320"/></a>
+  <br/>
+  
+  ---
 
-[<img src="https://img.cubik65536.top/RealmidcLogo.png" width="320"/>](https://www.realmidc.net/)
+  <b>Support me on <a href="https://www.afdian.net/@cubik65536?tab=home">afdian.net</a>!</b>
+  
+  <h3>By me a coffee: </h3>
 
----
+  * [@Cursor-S](https://github.com/Cursor-S)
 
-📫 Reach me by 
+  <h3>Sponsors from May 2021: </h3>
 
-> [Sending me a email](mailto:cubik65536@cubik65536.top)
+  * WUTONG
 
-> In [LittleSkin](https://littlesk.in)'s chat groups! (I'm a LittleSkin Community Support member!)
-
----
-
-⚡ This README is powered by
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats&show_owner=true&theme=blue-green&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!--
-**Cubik65536/Cubik65536** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  Thanks for your supports!
+  
+</details>
