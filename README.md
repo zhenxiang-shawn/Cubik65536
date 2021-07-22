@@ -3,6 +3,9 @@
 [![https://www.cubik65536.top](https://img.shields.io/website?down_color=red&down_message=Offline&label=www.cubik65536.top&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fwww.cubik65536.top)](https://www.cubik65536.top)
 [![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-cubik65536%40cubik65356.top-informational?style=for-the-badge)](mailto:cubik65536@cubik65356.top)
 
+[![GPG Key](https://img.shields.io/badge/My%20GPG%20Fingerprint-7C58%20C98C%203AB8%20004E%20046C%2016FA%204462%209FF0%20C890%20D359-informational?style=for-the-badge)](./gpg-public-key.txt)
+> Click on the badge to see my public key!
+
 #### Languages and Tools:
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> <img alt="CSS3" src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/> <img alt="Python" src="https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white"/> <img alt="Java" src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/> <img alt="Swift" src="https://img.shields.io/badge/swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white"/> <img alt="Markdown" src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white"/>
