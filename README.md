@@ -16,6 +16,13 @@
 
 <img alt="Vercel" src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white"/> <img alt="Oracle Cloud" src ="https://img.shields.io/badge/oracle-%23F00000.svg?style=for-the-badge&logo=oracle&logoColor=white" /> <img alt="Nginx" src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white"/>
 
+#### 🏢 I'm a member of the following organizations:
+
+- **[`NewNanCity - 牛腩小镇`](https://github.com/NewNanty)** as a *Core Software Developer* **&** a *Server Maintainer*
+- **[`CraftStar Studio`](https://github.com/CraftStarStudio)** as *Technical Director* **&** *Software Development Team Leader*
+- **[`LittleSkin Community Support`](https://github.com/LittleSkinCommspt)** as a *Developer* **&** *Documentation Author and Translator*
+- **[`LGBTQIA In China`](https://github.com/LGBT-CN)**. I'm **not** a LGBTQIA, but I believe it's **very** important to support them.
+
 #### 🧑🏻‍💻 My current projects:
 
 [CubikBot](https://github.com/Cubik65536/CubikBot) - A QQ Bot written in Java, based on YuQ-Mirai. Mainly on purpose of developing fun stuffs.
