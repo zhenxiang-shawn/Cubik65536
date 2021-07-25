@@ -33,7 +33,11 @@
 
 #### 📫 Contact me:
 
-I'm a member of [LittleSkin](https://littlesk.in)'s Community Support Team ([@LittleSkinCommspt](https://github.com/LittleSkinCommspt)) and Technical Director / Senior Developer of CraftStar Studio ([@CraftStarStudio](https://github.com/CraftStarStudio))
+The most efficient way is to send me an email.
+
+[![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-cubik65536%40cubik65356.top-informational?style=for-the-badge)](mailto:cubik65536@cubik65356.top)
+
+If you have anything to talk about with `CraftStar Studio` or `LittleSkin`, send me an email to my CraftStar or LittleSkin mailbox
 
 [![📫 EMAIL @CRAFTSTAR.NET](https://img.shields.io/badge/📫%20EMAIL%40CRAFTSTAR.NET-cubik65536%40craftstar.net-informational?style=for-the-badge)](mailto:cubik65536@craftstar.net)
 [![📫 EMAIL @LittleSkin Commspt](https://img.shields.io/badge/📫%20EMAIL%40LittleSkin%20Commspt-cubik65536%40commspt.littlesk.in-informational?style=for-the-badge)](mailto:cubik65536@commspt.littlesk.in)
