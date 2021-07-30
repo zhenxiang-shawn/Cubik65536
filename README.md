@@ -25,11 +25,7 @@
 
 #### 🧑🏻‍💻 My current projects:
 
-[CubikBot](https://github.com/Cubik65536/CubikBot) - A QQ Bot written in Java, based on YuQ-Mirai. Mainly on purpose of developing fun stuffs.
-
-[CraftStarStudio/MCDReforged-Remote](https://github.com/CraftStarStudio/MCDReforged-Remote) - An MCDR Plugin with Flask framwork, providing different APIs to connect, control the Minecraft server.
-
-[CraftStarStudio/CraftStarBot (planning)](#) - A QQ Bot written in Java, based on YuQ-Mirai. Designed for Minecraft Server groups.
+Coming soon!
 
 #### 📫 Contact me:
 
