@@ -22,7 +22,7 @@
 - **[`NewNanCity - 牛腩小镇`](https://github.com/NewNanCity)** as a *Core Software Developer* **&** a *Server Maintainer*
 - **[`LittleSkin Community Support`](https://github.com/LittleSkinCommspt)** as a *Developer* **&** *Documentation Author and Translator*
 - **[`LGBTQIA In China`](https://github.com/LGBT-CN)**. I'm **not** a LGBTQIA, but I believe it's **very** important to support them.
-- **[`CraftStar Studio`](https://github.com/CraftStarStudio)** as *Technical Director* **&** *Software Development Team Leader*
+- **[`CraftStar Studio`](https://github.com/CraftStarStudio)** as *Technical Director* **&** *Lead Developer*
 
 #### 🧑🏻‍💻 My current projects:
 
