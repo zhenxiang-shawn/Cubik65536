@@ -24,8 +24,12 @@
 - **[`LGBTQIA In China`](https://github.com/LGBT-CN)**. I'm **not** a LGBTQIA, but I believe it's **very** important to support them.
 - **[`CraftStar Studio`](https://github.com/CraftStarStudio)** as *Technical Director* **&** *Lead Developer*
 
-#### 🧑🏻‍💻 My current projects:
+#### 📊 My GitHub Stats
 
+![Cubik65536's GitHub Stats](https://github-readme-stats.cubik65536.top/api?username=Cubik65536&count_private=true&theme=blue-green&show_icons=true)
+![Cubik65536's Top Langs](https://github-readme-stats.cubik65536.top/api/top-langs/?username=Cubik65536&layout=compact&count_private=true&theme=blue-green)
+
+#### 🧑🏻‍💻 My current projects:
 Coming soon!
 
 #### 📫 Contact me:
@@ -39,36 +43,16 @@ If you have anything to talk about with `iXOR Technology` or `LittleSkin`, send 
 [![📫 EMAIL @iXORTech](https://img.shields.io/badge/📫%20EMAIL%40iXORTech-cubik65536%40ixor.tech-informational?style=for-the-badge)](mailto:cubik65536@craftstar.net)
 [![📫 EMAIL @LittleSkin Commspt](https://img.shields.io/badge/📫%20EMAIL%40LittleSkin%20Commspt-cubik65536%40commspt.littlesk.in-informational?style=for-the-badge)](mailto:cubik65536@commspt.littlesk.in)
 
-<details>
-  <summary>:zap: My GitHub Stats</summary>
+:zap: Sponsors
 
-  <img align="left" alt="Cubik65536's GitHub Stats" src="https://github-readme-stats.cubik65536.top/api?username=Cubik65536&count_private=true&theme=blue-green&show_icons=true" />
+<b>Thanks to <a href="https://www.realmidc.net/">RealmIDC</a> for providing me network and computing resources</b>
+<br/><br/>
+<a href="https://www.realmidc.net/"><img src="https://img.cubik65536.top/RealmidcLogo.png" width="320"/></a>
+
+<b>Support me on <a href="https://www.afdian.net/@cubik65536?tab=home">afdian.net</a>!</b>
   
-  <img align="left" alt="Cubik65536's Top Langs" src="https://github-readme-stats.cubik65536.top/api/top-langs/?username=Cubik65536&layout=compact&count_private=true&theme=blue-green" />
+<h3>Buy me a coffee: </h3>
 
-</details>
+* [@Cursor-S](https://github.com/Cursor-S)
 
-<details>
-  <summary>:zap: Sponsors </summary>
-  
-  <br/>
-  <b>Thanks to <a href="https://www.realmidc.net/">RealmIDC</a> for providing me network and computing resources</b>
-  <br/><br/>
-  <a href="https://www.realmidc.net/"><img src="https://img.cubik65536.top/RealmidcLogo.png" width="320"/></a>
-  <br/>
-  
-  ---
-
-  <b>Support me on <a href="https://www.afdian.net/@cubik65536?tab=home">afdian.net</a>!</b>
-  
-  <h3>By me a coffee: </h3>
-
-  * [@Cursor-S](https://github.com/Cursor-S)
-
-  <h3>Sponsors from May 2021: </h3>
-
-  * WUTONG
-
-  Thanks for your supports!
-  
-</details>
+Thanks for your supports!
