@@ -1,6 +1,7 @@
 ### Hi there, I'm Cubik 👋
 
 [![https://www.cubik65536.top](https://img.shields.io/website?down_color=red&down_message=Offline&label=www.cubik65536.top&style=for-the-badge&up_color=green&up_message=Online&url=https%3A%2F%2Fwww.cubik65536.top)](https://www.cubik65536.top)
+[![https://blog.cubik65536.top](https://img.shields.io/website?down_message=Offline&label=blog.cubik65536.top&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fblog.cubik65536.top)](https://blog.cubik65536.top)
 [![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-cubik65536%40cubik65356.top-informational?style=for-the-badge)](mailto:cubik65536@cubik65356.top)
 
 [![PGP Key](https://img.shields.io/badge/My%20PGP%20Fingerprint-7C58%20C98C%203AB8%20004E%20046C%2016FA%204462%209FF0%20C890%20D359-%23FA7343?style=for-the-badge)](./pgp-public-key.txt)
