@@ -27,7 +27,7 @@
 
 #### 📊 My GitHub Stats
 
-![Cubik65536's GitHub Stats](https://github-readme-stats.cubik65536.top/api?username=Cubik65536&count_private=true&theme=blue-green&show_icons=true)
+![Cubik65536's GitHub Stats](https://github-readme-stats.cubik65536.top/api?username=Cubik65536&count_private=true&hide=stars&theme=blue-green&show_icons=true)
 ![Cubik65536's Top Langs](https://github-readme-stats.cubik65536.top/api/top-langs/?username=Cubik65536&layout=compact&count_private=true&theme=blue-green)
 
 #### 🧑🏻‍💻 My current projects:
