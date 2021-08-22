@@ -20,10 +20,10 @@
 #### 🏢 I'm a member of the following organizations:
 
 - **[`iXOR Technology`](https://github.com/iXORTech)** as *Lead Developer*
-- **[`NewNanCity - 牛腩小镇`](https://github.com/NewNanCity)** as a *Core Software Developer* **&** a *Server Maintainer*
 - **[`LittleSkin Community Support`](https://github.com/LittleSkinCommspt)** as a *Developer* **&** *Documentation Author and Translator*
-- **[`LGBTQIA In China`](https://github.com/LGBT-CN)**. I'm **not** a LGBTQIA, but I believe it's **very** important to support them.
+- **[`NewNanCity - 牛腩小镇`](https://github.com/NewNanCity)** as a *Core Software Developer* **&** a *Server Maintainer*
 - **[`CraftStar Studio`](https://github.com/CraftStarStudio)** as *Technical Director* **&** *Lead Developer*
+- **[`LGBTQIA In China`](https://github.com/LGBT-CN)**. I'm **not** a LGBTQIA, but I believe it's **very** important to support them.
 
 #### 📊 My GitHub Stats
 
