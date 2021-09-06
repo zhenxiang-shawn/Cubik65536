@@ -19,11 +19,10 @@
 
 #### 🏢 I'm a member of the following organizations:
 
-- **[`iXOR Technology`](https://github.com/iXORTech)** as *Software Developer*
-- **[`LittleSkin Community Support`](https://github.com/LittleSkinCommspt)** as a *Developer* **&** *Documentation Author and Translator*
-- **[`NewNanCity - 牛腩小镇`](https://github.com/NewNanCity)** as a *Core Software Developer* **&** a *Server Maintainer*
-- **[`CraftStar Studio`](https://github.com/CraftStarStudio)** as *Technical Director* **&** *Software Developer*
-- **[`LGBTQIA In China`](https://github.com/LGBT-CN)**. I'm **not** a LGBTQIA, but I believe it's **very** important to support them.
+- *Founder*, *Product Manager*, *Technical Director* **&** *Software Engineer* of **[`iXOR Technology`](https://github.com/iXORTech)**
+- *Software Engineer* **&** *Documentation Author and Translator* of **[`LittleSkin Community Support`](https://github.com/LittleSkinCommspt)**
+- *Chief Software Engineer* **&** *Server Maintainer* of **[`NewNanCity - 牛腩小镇`](https://github.com/NewNanCity)**
+- **[`LGBTQIA In China`](https://github.com/LGBT-CN)** - I'm **not** a LGBTQIA, but I believe it's **very** important to support them.
 
 #### 📊 My GitHub Stats
 
@@ -43,17 +42,3 @@ If you have anything to talk about with `iXOR Technology` or `LittleSkin`, send 
 
 [![📫 EMAIL @iXORTech](https://img.shields.io/badge/📫%20EMAIL%40iXORTech-cubik65536%40ixor.tech-informational?style=for-the-badge)](mailto:cubik65536@craftstar.net)
 [![📫 EMAIL @LittleSkin Commspt](https://img.shields.io/badge/📫%20EMAIL%40LittleSkin%20Commspt-cubik65536%40commspt.littlesk.in-informational?style=for-the-badge)](mailto:cubik65536@commspt.littlesk.in)
-
-:zap: Sponsors
-
-<b>Thanks to <a href="https://www.realmidc.net/">RealmIDC</a> for providing me network and computing resources</b>
-<br/><br/>
-<a href="https://www.realmidc.net/"><img src="https://img.cubik65536.top/RealmidcLogo.png" width="320"/></a>
-
-<b>Support me on <a href="https://www.afdian.net/@cubik65536?tab=home">afdian.net</a>!</b>
-  
-<h3>Buy me a coffee: </h3>
-
-* [@Cursor-S](https://github.com/Cursor-S)
-
-Thanks for your supports!
