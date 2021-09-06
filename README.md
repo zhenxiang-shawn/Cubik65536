@@ -22,7 +22,7 @@
 - *Founder*, *Product Manager*, *Technical Director* **&** *Software Engineer* of **[`iXOR Technology`](https://github.com/iXORTech)**
 - *Software Engineer* **&** *Documentation Author and Translator* of **[`LittleSkin Community Support`](https://github.com/LittleSkinCommspt)**
 - *Chief Software Engineer* **&** *Server Maintainer* of **[`NewNanCity - 牛腩小镇`](https://github.com/NewNanCity)**
-- **[`LGBTQIA In China`](https://github.com/LGBT-CN)** - I'm **not** a LGBTQIA, but I believe it's **very** important to support them.
+- **[`LGBTQIA In China`](https://github.com/LGBT-CN)** | I'm **not** a LGBTQIA, but I believe it's **very** important to support them.
 
 #### 📊 My GitHub Stats
 
