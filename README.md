@@ -31,7 +31,7 @@
 ![Cubik65536's Top Langs](https://github-readme-stats.cubik65536.top/api/top-langs/?username=Cubik65536&layout=compact&count_private=true&theme=blue-green)
 
 #### 🧑🏻‍💻 My current projects:
-Coming soon!
+[`opensource-101/the_open_source_way-guidebook-2.0-zh`](https://github.com/opensource-101/the_open_source_way-guidebook-2.0-zh): Chinese Translation for the book: "THE OPEN SOURCE WAY 2.0"
 
 #### 📫 Contact me:
 
