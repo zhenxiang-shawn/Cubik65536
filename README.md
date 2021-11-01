@@ -43,3 +43,7 @@ If you have anything to talk about with `iXOR Technology` or `LittleSkin`, send 
 
 [![📫 EMAIL @iXORTech](https://img.shields.io/badge/📫%20EMAIL%40iXORTech-cubik65536%40ixor.tech-informational?style=for-the-badge)](mailto:cubik65536@craftstar.net)
 [![📫 EMAIL @LittleSkin Commspt](https://img.shields.io/badge/📫%20EMAIL%40LittleSkin%20Commspt-cubik65536%40commspt.littlesk.in-informational?style=for-the-badge)](mailto:cubik65536@commspt.littlesk.in)
+
+#### 🎉 Thanks:
+
+Thanks to `🍉 Network` and `RealmIDC` for providing me network and computing resources
