@@ -15,8 +15,6 @@ A Java & Python & Swift Developer. Member of **[@iXORTech](https://github.com/iX
   <a href="https://afdian.net/@cubik65536"><img src="https://cdn.jsdelivr.net/gh/Cubik65536/cubik-favicons@main/support%20me%20on%20afd.png" width="auto" height="40"></a>
 </p>
 
-<br/>
-
 ------
 
 [![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-cubik65536%40cubik65356.top-informational?style=for-the-badge)](mailto:cubik65536@cubik65356.top)
