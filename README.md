@@ -22,8 +22,6 @@ A Java & Python & Swift Developer. Member of **[@iXORTech](https://github.com/iX
 [![PGP Key](https://img.shields.io/badge/My%20PGP%20Fingerprint-7C58%20C98C%203AB8%20004E%20046C%2016FA%204462%209FF0%20C890%20D359-%23FA7343?style=for-the-badge)](./pgp-public-key.txt)
  > Click on the badge to see my public key!
 
-<br/>
-
 ------
 
 ### 🛠 Languages and Tools:
