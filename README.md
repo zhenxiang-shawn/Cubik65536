@@ -24,7 +24,7 @@ A Java & Python & Swift Developer. Member of **[@iXORTech](https://github.com/iX
 
 ------
 
-### 🛠 Languages and Tools:
+### 🛠 My Tools:
 
 #### 📱 Smartphone & Tablet
 
