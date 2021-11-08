@@ -10,9 +10,9 @@ A Java & Python & Swift Developer. Member of **[@iXORTech](https://github.com/iX
 <a href="https://blog.cubik65536.top"><img src="https://img.shields.io/website?down_message=Offline&label=blog.cubik65536.top&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fblog.cubik65536.top" width="auto" height="32"></a>
 
 <p>
-  <a href="https://github.com/sponsors/Cubik65536"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" width="auto" height="48"></a>
+  <a href="https://github.com/sponsors/Cubik65536"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" width="auto" height="32"></a>
   &nbsp;
-  <a href="https://afdian.net/@cubik65536"><img src="https://cdn.jsdelivr.net/gh/Cubik65536/cubik-favicons@main/support%20me%20on%20afd.png" width="auto" height="48"></a>
+  <a href="https://afdian.net/@cubik65536"><img src="https://cdn.jsdelivr.net/gh/Cubik65536/cubik-favicons@main/support%20me%20on%20afd.png" width="auto" height="32"></a>
 </p>
 
 ------
