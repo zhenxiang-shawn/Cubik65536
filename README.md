@@ -26,7 +26,7 @@ A Java & Python & Swift Developer. Member of **[@iXORTech](https://github.com/iX
 
 ### 🛠 Languages and Tools:
 
-####  Smartphone & Tablet
+#### 📱 Smartphone & Tablet
 
 <p>
   <img src="https://img.shields.io/badge/Samsung-%231428A0.svg?style=for-the-badge&logo=samsung&logoColor=white" />
@@ -35,6 +35,7 @@ A Java & Python & Swift Developer. Member of **[@iXORTech](https://github.com/iX
   &nbsp;
   <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
+  <img src="https://img.shields.io/badge/iPadOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
 </p>
 
 More coming soon!
