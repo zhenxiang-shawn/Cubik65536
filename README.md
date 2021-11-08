@@ -63,6 +63,14 @@ A Java & Python & Swift Developer. Member of **[@iXORTech](https://github.com/iX
   <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
 </p>
 
+<p>
+  <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rocky-linux&logoColor=F0F0F0" />
+  <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" />
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+</p>
+
+#### 👨🏻‍💻 Programming Languages & IDEs/Editors
+
 More coming soon!
 
 <br/>
