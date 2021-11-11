@@ -142,3 +142,7 @@ Coming soon!
 ### ℹ️ Credits
 [![anuraghazra/github-readme-stats](https://github-readme-stats.cubik65536.top/api/pin/?theme=github_dark&username=anuraghazra&repo=github-readme-stats&show_owner=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Ileriayo/markdown-badges](https://github-readme-stats.cubik65536.top/api/pin/?theme=github_dark&username=Ileriayo&repo=markdown-badges&show_owner=true)](https://github.com/Ileriayo/markdown-badges)
+
+## 🎉 Thanks:
+
+ Thanks to `🍉 Network` and `RealmIDC` for providing me network and computing resources
