@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Cubik 👋
 
-A Java & Python & Swift Developer. Member of **[@iXORTech](https://github.com/iXORTech)** & **[@LittleSkinCommspt](https://github.com/LittleSkinCommspt)**. Acting Principal of St. Linus College & President of MC@HMU Club **[@HMUniversity](https://github.com/HMUniversity)**
+A Java & Python & Swift Developer. Member of **[@fa-org](https://github.com/fa-org)** & **[@iXORTech](https://github.com/iXORTech)** & **[@LittleSkinCommspt](https://github.com/LittleSkinCommspt)**. Acting Principal of St. Linus College & President of MC@HMU Club **[@HMUniversity](https://github.com/HMUniversity)**
 
 <a href="https://www.cubik65536.top"><img src="https://img.shields.io/website?ddown_message=Offline&label=www.cubik65536.top&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.cubik65536.top" width="auto" height="32"></a>
 <a href="https://blog.cubik65536.top"><img src="https://img.shields.io/website?down_message=Offline&label=blog.cubik65536.top&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fblog.cubik65536.top" width="auto" height="32"></a>
@@ -126,6 +126,7 @@ A Java & Python & Swift Developer. Member of **[@iXORTech](https://github.com/iX
 ### 🏢 I'm a member of the following organizations:
 
  - *Acting Principal* of `St. Linus College` & *President* of `MC@HMU Club` at **[`Home University`](https://github.com/HMUniversity)**
+ - *Documentation Author* of **[Fa-Org | Fa 编程语言](https://github.com/fa-org)**
  - *Founder*, *Product Manager*, *Technical Director* **&** *Software Engineer* of **[`iXOR Technology`](https://github.com/iXORTech)**
  - *Software Engineer* **&** *Documentation Author and Translator* of **[`LittleSkin Community Support`](https://github.com/LittleSkinCommspt)**
  - *Chief Software Engineer* **&** *Server Maintainer* of **[`NewNanCity - 牛腩小镇`](https://github.com/NewNanCity)**
