@@ -146,4 +146,4 @@ Coming soon!
 
 ## 🎉 Thanks:
 
-Thanks to `🍉 Network` and `RealmIDC` for providing me network and computing resources
+Thanks to `🍉 Network`, `mcHosts` and `RealmIDC` for providing me network and computing resources
