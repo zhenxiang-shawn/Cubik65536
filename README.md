@@ -126,7 +126,7 @@ A Java & Python & Swift Developer. Member of **[@fa-org](https://github.com/fa-o
 
  - *Acting Principal* of `St. Linus College` & *President* of `MC@HMU Club` at **[`Home University`](https://github.com/HMUniversity)**
  - *Documentation Author* of **[`Fa-Org`](https://github.com/fa-org)** (Organization of Fa-Lang, a new Open Source Programming Language)
- - *Founder*, *Product Manager*, *Technical Director* **&** *Software Engineer* of **[`iXOR Technology`](https://github.com/iXORTech)**
+ - *Founder* **&** *Software Engineer* of **[`iXOR Technology`](https://github.com/iXORTech)**
  - *Software Engineer* **&** *Server Maintainer* of **[`NewNanCity - 牛腩小镇`](https://github.com/NewNanCity)**
  - **[`LGBTQIA In China`](https://github.com/LGBT-CN)** | I'm **not** a LGBTQIA, but I believe it's **very** important to support them.
 
