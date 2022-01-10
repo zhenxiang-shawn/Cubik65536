@@ -4,7 +4,9 @@
 
 ## Hi there, I'm Cubik 👋
 
-A Java & Python & Swift Developer. Member of **[@fa-org](https://github.com/fa-org)** & **[@iXORTech](https://github.com/iXORTech)** & **[@LittleSkinCommspt](https://github.com/LittleSkinCommspt)**.
+A Java & Python & Swift Developer. 
+
+*Founder* **&** *Software Engineer* of **[@CubikTech](https://github.com/CubikTech)** & **[@iXORTech](https://github.com/iXORTech)**.
 
 *Deputy Vice-Chancellor* & *Acting Principal* of `St. Linus College` & *President* of `MC@HMU Club` **[@HMUniversity](https://github.com/HMUniversity)**
 
