@@ -6,7 +6,7 @@
 
 A Java & Python & Swift Developer. Member of **[@fa-org](https://github.com/fa-org)** & **[@iXORTech](https://github.com/iXORTech)** & **[@LittleSkinCommspt](https://github.com/LittleSkinCommspt)**.
 
-Deputy Vice-Chancellor & Acting Principal of St. Linus College & President of MC@HMU Club **[@HMUniversity](https://github.com/HMUniversity)**
+*Deputy Vice-Chancellor* & *Acting Principal* of `St. Linus College` & *President* of `MC@HMU Club` **[@HMUniversity](https://github.com/HMUniversity)**
 
 <a href="https://www.cubik65536.top"><img src="https://img.shields.io/website?ddown_message=Offline&label=www.cubik65536.top&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.cubik65536.top" width="auto" height="32"></a>
 <a href="https://blog.cubik65536.top"><img src="https://img.shields.io/website?down_message=Offline&label=blog.cubik65536.top&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fblog.cubik65536.top" width="auto" height="32"></a>
