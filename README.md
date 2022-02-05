@@ -21,7 +21,7 @@ A Java & Python & Swift Developer.
 
 ------
 
-[![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-cubik65536%40cubik65356.top-informational?style=for-the-badge)](mailto:cubik65536@cubik65356.top)
+[![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-cubik65536%40cubik65536.top-informational?style=for-the-badge)](mailto:cubik65536@cubik65536.top)
 
 [![PGP Key](https://img.shields.io/badge/My%20PGP%20Fingerprint-7C58%20C98C%203AB8%20004E%20046C%2016FA%204462%209FF0%20C890%20D359-%23FA7343?style=for-the-badge)](./pgp-public-key.txt)
  > Click on the badge to see my public key!
