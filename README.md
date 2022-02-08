@@ -50,31 +50,6 @@ A Java & Python & Swift Developer.
   <img src="https://img.shields.io/badge/KDE-1D99F3?logo=KDE&logoColor=fff&style=for-the-badge" />
 </p>
 
-#### ☁️ Cloud & Server & SaaS & Web Hosting
-<p>
-  <img src="https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=azure-devops&logoColor=white" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white" />
-  <img src="https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7" />
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Rocky%20Linux-10B981?style=for-the-badge&logo=rocky-linux&logoColor=F0F0F0" />
-  <img src="https://img.shields.io/badge/cent%20os-002260?style=for-the-badge&logo=centos&logoColor=F0F0F0" />
-  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white" />
-</p>
-
-#### 🌍 Browsers
-
-<p>
-  <img src="https://img.shields.io/badge/Safari-000000?style=for-the-badge&logo=Safari&logoColor=white" />
-  <img src="https://img.shields.io/badge/Edge-0078D7?style=for-the-badge&logo=Microsoft-edge&logoColor=white" />
-  <img src="https://img.shields.io/badge/Google%20Chrome-4285F4?style=for-the-badge&logo=GoogleChrome&logoColor=white" />
-</p>
-
 #### 👨🏻‍💻 Terminals & Programming Languages & IDEs/Editors
 
 <p>
@@ -103,16 +78,6 @@ A Java & Python & Swift Developer.
   <img src="https://img.shields.io/badge/CLion-black?style=for-the-badge&logo=clion&logoColor=white" />
   <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   <img src="https://img.shields.io/badge/Xcode-007ACC?style=for-the-badge&logo=Xcode&logoColor=white" />
-</p>
-
-#### Version Control & CI
-
-<p>
-  <img src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white" />
-  <img src="https://img.shields.io/badge/Gitee-C71D23?style=for-the-badge&logo=gitee&logoColor=white" />
-  &nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GitHub%20Actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white" />
 </p>
 
 <br/>
