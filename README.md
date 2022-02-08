@@ -6,9 +6,13 @@
 
 A Java & Python & Swift Developer. 
 
-*Founder* **&** *Software Engineer* of **[@CubikTech](https://github.com/CubikTech)** & **[@iXORTech](https://github.com/iXORTech)**.
+*Founder* **&** *Software Engineer* 
+<br/>
+**[@CubikTech](https://github.com/CubikTech)** & **[@iXORTech](https://github.com/iXORTech)**.
 
-*Deputy Vice-Chancellor* & *Acting Principal* of `St. Linus College` & *President* of `MC@HMU Club` **[@HMUniversity](https://github.com/HMUniversity)**
+*Deputy Vice-Chancellor* & *Acting Principal* of `St. Linus College`
+<br/>
+**[@HMUniversity](https://github.com/HMUniversity)**
 
 <a href="https://www.cubik65536.top"><img src="https://img.shields.io/website?ddown_message=Offline&label=www.cubik65536.top&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.cubik65536.top" width="auto" height="32"></a>
 <a href="https://blog.cubik65536.top"><img src="https://img.shields.io/website?down_message=Offline&label=blog.cubik65536.top&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fblog.cubik65536.top" width="auto" height="32"></a>
@@ -84,7 +88,6 @@ A Java & Python & Swift Developer.
 
 ### 🏢 I'm a member of the following organizations:
 
- - *President* of **[`MC@HMU`](https://mc.hmu.ac.cn)** - Minecraft Server of [`Home University`](https:/hmu.ac.cn)
  - *Deputy Vice-Chancellor* **&** *Acting Principal* of `St. Linus College` at **[`Home University`](https:/hmu.ac.cn)**
  - *Documentation Author* of **[`Fa-Org`](https://github.com/fa-org)** (Organization of Fa-Lang, a new Open Source Programming Language)
  - *Founder* **&** *Software Engineer* of **[`iXOR Technology`](https://ixor.tech)**
