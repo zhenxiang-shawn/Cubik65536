@@ -4,7 +4,7 @@
 
 ## Hi there, I'm Cubik 👋
 
-A Java & Python & Swift Developer. 
+A Java & Kotlin & Python & Swift Developer. 
 
 *Founder* **&** *Software Engineer* 
 <br/>
