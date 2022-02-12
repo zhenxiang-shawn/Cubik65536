@@ -16,11 +16,7 @@ A Java & Kotlin & Python & Swift Developer.
 
 <a href="https://www.cubik65536.top"><img src="https://img.shields.io/website?ddown_message=Offline&label=www.cubik65536.top&style=for-the-badge&up_message=Online&url=https%3A%2F%2Fwww.cubik65536.top" width="auto" height="32"></a>
 
-<p>
-  <a href="https://github.com/sponsors/Cubik65536"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" width="auto" height="40"></a>
-  &nbsp;
-  <a href="https://afdian.net/@cubik65536"><img src="https://cdn.jsdelivr.net/gh/Cubik65536/cubik-favicons@main/support%20me%20on%20afd.png" width="auto" height="40"></a>
-</p>
+<br/>
 
 <hr/>
 
@@ -93,3 +89,11 @@ Coming soon!
 ## 🎉 Thanks:
 
 Thanks to `🍉 Network`, `mcHosts` and `RealmIDC` for providing me network and computing resources
+
+You can also sponsor me on [`GitHub`](https://github.com/sponsors/Cubik65536) or [`afdian`](https://afdian.net/@cubik65536) so that your name will be also on the list!
+
+<p>
+  <a href="https://github.com/sponsors/Cubik65536"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" width="auto" height="40"></a>
+  &nbsp;
+  <a href="https://afdian.net/@cubik65536"><img src="https://cdn.jsdelivr.net/gh/Cubik65536/cubik-favicons@main/support%20me%20on%20afd.png" width="auto" height="38"></a>
+</p>
