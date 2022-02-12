@@ -71,7 +71,7 @@ Send the messages to `me@` address is better because the `cubik65536@` address i
 
 [![📫 EMAIL](https://img.shields.io/badge/📫%20EMAIL-me%40enc.cubik65536.top-informational?style=for-the-badge)](mailto:me@enc.cubik65536.top)
 
-**I will always use my PGP signature when I reply or send messages with this mail address.**
+**I will always use my PGP signature when I reply or send messages with the mail address `me@enc.cubik65536.top`.**
 
 [![PGP Key](https://img.shields.io/badge/My%20PGP%20Fingerprint-7C58%20C98C%203AB8%20004E%20046C%2016FA%204462%209FF0%20C890%20D359-%23FA7343?style=for-the-badge)](./pgp-public-key.txt)
  > Click on the badge to see my public key!
