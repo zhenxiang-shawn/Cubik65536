@@ -24,12 +24,16 @@ A Java & Kotlin & Python & Swift Developer.
   <img src="https://img.shields.io/badge/Apple-%23000000.svg?style=for-the-badge&logo=apple&logoColor=white" />
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
   <img src="https://img.shields.io/badge/iPadOS-000000?style=for-the-badge&logo=ios&logoColor=white" />
-  &nbsp;&nbsp;
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=macos&logoColor=F0F0F0" />
   <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
   <img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" />
   <img src="https://img.shields.io/badge/KDE-1D99F3?logo=KDE&logoColor=fff&style=for-the-badge" />
-  &nbsp;&nbsp;
+</p>
+
+<p>
   <img src="https://img.shields.io/badge/iTerm2-546E7A?style=for-the-badge&logo=iTerm2&logoColor=F0F0F0" />
   <img src="https://img.shields.io/badge/Windows%20Terminal-4D4D4D?style=for-the-badge&logo=windows-terminal&logoColor=F0F0F0" />
 </p>
@@ -60,7 +64,7 @@ A Java & Kotlin & Python & Swift Developer.
 
 ### 📫 Contact Me
 
-If you want to contact me, the most efficient way is to send emails to me. I will check my inbox every 4 to 5 hours, so you should get my response pretty quickly unless the mail system moves your message to the junk box, which I will only check once a day.
+If you want to contact me, the most efficient way is to send emails to me. I will check my inbox every 4 to 5 hours, so you should get my response pretty quickly unless the mail system moves your message to the junk box, which I usually will clear directly after a quick check every week (so it's possible that I can't even see your email before it got deleted).
 
 Send the messages to `me@` address is better because the `cubik65536@` address is also receiving a lot of notifications, so there's a bigger chance that I miss your message.
 
