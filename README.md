@@ -93,7 +93,7 @@ Thanks to `🍉 Network`, `mcHosts` and `RealmIDC` for providing me network and 
 You can also sponsor me on [`GitHub`](https://github.com/sponsors/Cubik65536) or [`afdian`](https://afdian.net/@cubik65536) so that your name will be also on the list!
 
 <p>
-  <a href="https://github.com/sponsors/Cubik65536"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" width="auto" height="40"></a>
+  <a href="https://github.com/sponsors/Cubik65536"><img src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#EA4AAA" width="auto" height="40" /></a>
   &nbsp;
-  <a href="https://afdian.net/@cubik65536"><img src="https://cdn.jsdelivr.net/gh/Cubik65536/cubik-favicons@main/support%20me%20on%20afd.png" width="auto" height="38"></a>
+  <a href="https://afdian.net/@cubik65536"><img src="https://cdn.jsdelivr.net/gh/Cubik65536/cubik-favicons@main/support%20me%20on%20afd.png" width="auto" height="38" /></a>
 </p>
